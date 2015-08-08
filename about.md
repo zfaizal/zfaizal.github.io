@@ -8,4 +8,4 @@ permalink: /about/
 
 - Email:  zfaizal@hotmail.com
 - Github: [https://github.com/zfaizal](https://github.com/zfaizal)
-- LinkedIn: [https://linkedin.com/in/zeeshanfaizal](Check it out!)
+- LinkedIn: [https://linkedin.com/in/zeeshanfaizal](https://linkedin.com/in/zeeshanfaizal)
