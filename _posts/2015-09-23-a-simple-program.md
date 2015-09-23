@@ -36,4 +36,9 @@ console.log('Hello, world!');
 
 ##Popular Uses:
 This specific example is the quintessential introduction to any programming language or intro programming course. A program is used in: encoding mp3s, finding directions from Pamplona to Madrid, listening to music on Spotify, and allowing you to read this post on my website.
+
+
+
+
+*Dedicated to Amaya ![](/images/rocket.jpeg)*
     
