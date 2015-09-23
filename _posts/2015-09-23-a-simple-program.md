@@ -14,7 +14,7 @@ The quintessential computer program taught by all is the "Hello World" program. 
 
 ##Example(s)-
     
-I will primarily be using javascript for examples, but here is the "Hello World" program in various languages, try them out at [https://repl.it/](https://repl.it) (it'd be helpful to open this a new tab!):
+I will primarily be using javascript for examples, but here is the "Hello World" program in various languages, try them out at [https://repl.it](https://repl.it/languages) (it'd be helpful to open this a new tab!):
 
 ###*Python*:
 {% highlight python %}
